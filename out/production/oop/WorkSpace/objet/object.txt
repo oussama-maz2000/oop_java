@@ -1,0 +1,30 @@
+Comme nous le savons tous, Java est un langage orienté objet. Ainsi, il prend en charge les concepts fondamentaux suivants tels que 
+-les objetfa
+-les classes
+-l'abstraction
+-le polymorphisme
+-l'encapsulastion 
+-...etc
+
+dans cet article , je vais expliquer d'abord c'est quoi l'oop et la difference entre l'oop et 
+la programmation procedurale
+
+bon l'oop (programmation orienté objet) c'est une technique de programmation permettant d'ecrire des 
+programmes basee sur des objets du monde reel,Les états et les comportements d'un objet sont représentés sous forme des
+variables et des méthodes.
+
+la difference entre opp et programmation procedurale :
+ -un langage procedurale est base sur des functions un langage oop est base sur des objets et des classes
+ -Le langage procédural expose les données à l'ensemble du programme, mais le langage orienté objet encapsule les données
+ -Le langage procédural offre moins de réutilisation de code, mais le langage orienté objet offre plus de réutilisation de code.
+
+
+c'est quoi un objet ?
+
+Un objet est une entité en temps réel qui a des états et des comportements. Par exemple, un chat
+ a des états comme la couleur, le nom et la race.  Et aussi le chat a des comportements comme manger
+ et dormir. Un objet est une instance d'une classe et nous pouvons créer un objet d'une classe en
+ utilisant le mot-clé "new" .
+ L'objet est une instance d'une classe en bref.
+
+la declaration et l'inisialization et creeation on les trouvera dans le fichie Student.java
